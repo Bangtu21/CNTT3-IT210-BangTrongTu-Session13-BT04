@@ -1,0 +1,9 @@
+Session13-BT04-Phần 1
+- So sánh HQL và Native Query
+Tiêu chí	HQL			Native Query
+Cách truy vấn	Theo Class & Field	Theo Table & Column
+Phụ thuộc DB	Không			Có
+Bảo trì		Dễ				Khó
+Tối ưu sâu	Trung Bình		Cao
+
+HQL lại giúp mã nguồn an toàn hơn khi cấu hình Database thay đổi tại vì: HQL làm việc với Entity (Java), không phải bảng thật
